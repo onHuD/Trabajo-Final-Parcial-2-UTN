@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|c:\\users\\fabian\\source\\repos\\cryptowallet\\cryptowallet\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|solutionrelative:cryptowallet\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|c:\\users\\fabian\\source\\repos\\cryptowallet\\cryptowallet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|solutionrelative:cryptowallet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|c:\\users\\fabian\\source\\repos\\cryptowallet\\cryptowallet\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|solutionrelative:cryptowallet\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|c:\\users\\fabian\\source\\repos\\cryptowallet\\cryptowallet\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|solutionrelative:cryptowallet\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|c:\\users\\fabian\\source\\repos\\cryptowallet\\cryptowallet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF76432-290C-4CE4-8EB9-5F862BCAF30A}|CryptoWallet\\CryptoWallet.csproj|solutionrelative:cryptowallet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Controllers\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "CryptoWallet\\Controllers\\TransaccionesController.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Controllers\\TransaccionesController.cs",
+              "RelativeToolTip": "CryptoWallet\\Controllers\\TransaccionesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:52:39.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CryptoWallet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CryptoWallet\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:52:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CryptoWallet\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CryptoWallet\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:52:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoWallet\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Program.cs",
+              "RelativeToolTip": "CryptoWallet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:49:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Models\\Transaccion.cs",
+              "RelativeDocumentMoniker": "CryptoWallet\\Models\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\Fabian\\source\\repos\\CryptoWallet\\CryptoWallet\\Models\\Transaccion.cs",
+              "RelativeToolTip": "CryptoWallet\\Models\\Transaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:39:37.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
