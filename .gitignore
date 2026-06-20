@@ -1,0 +1,13 @@
+# Backend C#
+CryptoWallet/CryptoWallet/bin/
+CryptoWallet/CryptoWallet/obj/
+CryptoWallet/.vs/
+CryptoWallet/**/*.user
+
+# Frontend Vue
+crypto-wallet/node_modules/
+crypto-wallet/dist/
+
+# General
+.DS_Store
+tempCodeRunnerFile.javascript
