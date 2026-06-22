@@ -1,18 +1,18 @@
     
- - **Frontend: Vue 3 + Vite + Vue Router
-- **Backend: ASP.NET Core MVC (.NET 8)
-- **Base de datos:  SQL Server(LocalHost) + Entity Framework Core
-- **API externa: CriptoYa (criptoya.com/api) --  SatoshiTango 
+-  **Frontend: Vue 3 + Vite + Vue Router
+-  **Backend: ASP.NET Core MVC (.NET 8)
+-  **Base de datos:  SQL Server(LocalHost) + Entity Framework Core
+-  **API externa: CriptoYa (criptoya.com/api) --  SatoshiTango 
 
 [1] ----
 ### Backend
 
-1. Abri la solución `CryptoWallet.sln` en Visual Studio
+1. Abri C# CryptoWallet.sln en Visual Estudio
 
 [2] ---- 
 ### Frontend
 
-3.  Vue frontend corre en `http://localhost:5173`
+3.  Vue frontend 
 
 ## Endpoints 
 
