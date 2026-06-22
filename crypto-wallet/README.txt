@@ -1,4 +1,3 @@
-    
 -  **Frontend: Vue 3 + Vite + Vue Router
 -  **Backend: ASP.NET Core MVC (.NET 8)
 -  **Base de datos:  SQL Server(LocalHost) + Entity Framework Core
